@@ -17,7 +17,7 @@
     keuploadSimpleUrl='<%=keuploadSimpleUrl%>';
     uploadSimpleUrl='<%=uploadSimpleUrl%>';
     imagesPath='<%=staticImage%>';
-    </script>
+</script>
     
 <sitemesh:head></sitemesh:head>
 </head>
